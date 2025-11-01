@@ -1,0 +1,13 @@
+*{
+    margin: 3px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav img{
+    width: 100px;
+    height: 100px;
+}
+.col-3 card {
+    width: 150px;
+}
